@@ -1,0 +1,14 @@
+{
+  "name": "ubiquity-futures",
+  "version": "0.0.1",
+  "description": "A control flow library",
+  "main": "index.js",
+  "repository": "",
+  "author": {
+    "name": "Jean-Sébastien Tremblay",
+    "email": "jeansebtr@xpensia.com",
+    "url": "http://blog.jeansebtr.com"
+  },
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
